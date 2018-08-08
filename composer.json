@@ -4,8 +4,8 @@
         "sidspears/sum1": "^1.0"
     },
     "autoload": {
-        "psr-4:": {
-            "SidSpears\\": "src/"
+        "psr-4": {
+            "SidSpears\\": "src"
         }
     }
 }
